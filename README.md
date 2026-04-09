@@ -1,7 +1,3 @@
-Aqui vai um README bem estruturado, didático e já pensado pro seu workshop 👇
-
----
-
 # 📚 Workshop de Git e GitHub
 
 Este repositório foi criado para apoiar o aprendizado dos conceitos básicos de **Git** e **GitHub**, com atividades práticas e simples.
